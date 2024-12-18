@@ -3994,5 +3994,24 @@
       "steam": "2379390"
     },
     "slug": "tom-clancys-rainbow-six-extraction"
-  }
+  },
+  {
+    "url": "",
+    "name": "Grand Theft Auto V",
+    "logo": "",
+    "status": "Denied",
+    "native": false,
+    "reference": "",
+    "anticheats": ["BattlEye"],
+    "notes": [],
+    "updates": [],
+    "storeIds": {
+      "steam": "271590",
+      "epic": {
+        "namespace": "0584d2013f0149a791e7b9bad0eec102",
+        "slug": "grand-theft-auto-v"
+      }
+    },
+    "slug": "grand-theft-auto-v",
+  },
 ]
