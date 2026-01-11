@@ -18,9 +18,9 @@ async function updateGames() {
       anticheats.includes("Easy Anti-Cheat") ||
       anticheats.includes("BattlEye")
     ) {
-      game.status = "denied";
+      game.status = "Denied";
     } else {
-      game.status = "unknown";
+      game.status = "Unknown";
     }
 
     game.notes = [];
