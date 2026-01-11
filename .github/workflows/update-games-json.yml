@@ -30,5 +30,5 @@ jobs:
       - name: Commit JSON
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update releases and anticheat file hashes"
+          commit_message: "Update games json with latest changes from AreWeAntiCheatYet"
           file_pattern: "games.json"
