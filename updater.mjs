@@ -14,6 +14,13 @@ async function updateGames() {
   const updatedGames = games.map((game) => {
     const anticheats = Array.isArray(game.anticheats) ? game.anticheats : [];
 
+    game.notes = [];
+    game.updates = [];
+    delete game.logo;
+    delete game.native;
+    delete game.reference;
+    delete game.slug;
+
     if (
       anticheats.includes("Easy Anti-Cheat") ||
       anticheats.includes("BattlEye")
@@ -22,13 +29,6 @@ async function updateGames() {
     } else {
       game.status = "Unknown";
     }
-
-    game.notes = [];
-    game.updates = [];
-    delete game.logo;
-    delete game.native;
-    delete game.reference;
-    delete game.slug;
 
     return game;
   });
