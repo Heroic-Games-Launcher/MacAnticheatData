@@ -21,6 +21,9 @@ async function updateGames() {
     delete game.reference;
     delete game.slug;
 
+    if (game.status === 'Denied' || game.status === 'Broken')
+      return game
+
     if (
       anticheats.includes("Easy Anti-Cheat") ||
       anticheats.includes("BattlEye")
