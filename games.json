@@ -33,7 +33,7 @@
   {
     "url": "",
     "name": "Battlefield™ 2042",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -66,7 +66,7 @@
   {
     "url": "https://playvalorant.com",
     "name": "Valorant",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "Vanguard"
     ],
@@ -134,7 +134,7 @@
   {
     "url": "https://pubg.com/",
     "name": "PUBG: Battlegrounds",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Zakynthos",
       "BattlEye",
@@ -449,7 +449,7 @@
   {
     "url": "https://www.realmroyale.com/",
     "name": "Realm Royale",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -481,7 +481,7 @@
   {
     "url": "https://pso2.jp/",
     "name": "Phantasy Star Online 2 (JP)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -589,7 +589,7 @@
   {
     "url": "https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-battle-for-neighborville",
     "name": "Plants vs. Zombies: Battle for Neighborville",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -649,7 +649,7 @@
   {
     "url": "",
     "name": "Pandemic Express - Zombie Escape",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -663,7 +663,7 @@
   {
     "url": "https://scumgame.com/",
     "name": "SCUM",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -695,7 +695,7 @@
   {
     "url": "https://www.bandainamcoent.com/games/jump-force",
     "name": "JUMP FORCE",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -727,7 +727,7 @@
   {
     "url": "https://www.bandainamcoent.com/games/dragon-ball-fighterz",
     "name": "DRAGON BALL FighterZ",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -741,7 +741,7 @@
   {
     "url": "https://enlisted.net/",
     "name": "Enlisted",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -795,7 +795,7 @@
   {
     "url": "https://www.iracing.com/",
     "name": "iRacing",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -813,7 +813,7 @@
   {
     "url": "https://en.bandainamcoent.eu/dragon-ball/dragon-ball-xenoverse-2",
     "name": "DRAGON BALL XENOVERSE 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -827,7 +827,7 @@
   {
     "url": "https://www.ubisoft.com/en-us/game/ghost-recon/breakpoint/wildlands",
     "name": "Tom Clancy's Ghost Recon Wildlands",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -890,7 +890,7 @@
   {
     "url": "https://www.ubisoft.com/en-us/game/the-crew/the-crew-2",
     "name": "The Crew™ 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -1007,7 +1007,7 @@
   {
     "url": "https://www.faceit.com",
     "name": "Counter-Strike: Global Offensive (FACEIT)",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "FACEIT"
     ],
@@ -1019,7 +1019,7 @@
   {
     "url": "https://esea.net",
     "name": "Counter-Strike: Global Offensive (ESEA)",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "ESEA"
     ],
@@ -1180,7 +1180,7 @@
   {
     "url": "https://www.team17.com/games/worms-rumble/",
     "name": "Worms Rumble",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -1211,7 +1211,7 @@
   {
     "url": "",
     "name": "Empyrion - Galactic Survival",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -1225,7 +1225,7 @@
   {
     "url": "",
     "name": "Call of Duty: Modern Warfare (2019)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "RICOCHET"
     ],
@@ -1237,7 +1237,7 @@
   {
     "url": "https://www.callofduty.com/warzone",
     "name": "Call of Duty: Warzone",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "RICOCHET"
     ],
@@ -1265,7 +1265,7 @@
   {
     "url": "https://combatarms-r.valofe.com/",
     "name": "Combat Arms: Reloaded",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye",
       "nProtect GameGuard"
@@ -1292,7 +1292,7 @@
   {
     "url": "https://www.callofduty.com/blackopscoldwar",
     "name": "Call of Duty Black Ops: Cold War",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Treyarch Anti-Cheat"
     ],
@@ -1366,7 +1366,7 @@
   {
     "url": "https://playspellbreak.com/en",
     "name": "Spellbreak",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -1399,7 +1399,7 @@
   {
     "url": "https://www.conanexiles.com",
     "name": "Conan Exiles",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -1450,7 +1450,7 @@
   {
     "url": "https://maplestory.nexon.net",
     "name": "MapleStory",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Nexon Game Security"
     ],
@@ -1464,7 +1464,7 @@
   {
     "url": "https://heroesandgenerals.com/",
     "name": "Heroes & Generals",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -1482,7 +1482,7 @@
   {
     "url": "https://www.deadsidegame.com/",
     "name": "Deadside",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat",
       "BattlEye"
@@ -1511,7 +1511,7 @@
   {
     "url": "https://ru.warface.com",
     "name": "Warface",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "FairFight",
       "Mail.ru Anti-Cheat"
@@ -1558,7 +1558,7 @@
   {
     "url": "",
     "name": "Atlas",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "VAC",
       "BattlEye"
@@ -1601,7 +1601,7 @@
   {
     "url": "",
     "name": "ArmA 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -1643,7 +1643,7 @@
   {
     "url": "",
     "name": "Battlefield 1",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "FairFight",
       "EA anticheat"
@@ -1686,7 +1686,7 @@
   {
     "url": "",
     "name": "Battlefield 1942",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -1726,7 +1726,7 @@
   {
     "url": "",
     "name": "Crysis",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -1816,7 +1816,7 @@
   {
     "url": "",
     "name": "Pang Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -1872,7 +1872,7 @@
   {
     "url": "",
     "name": "Monstrum 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -1956,7 +1956,7 @@
   {
     "url": "",
     "name": "SWORD ART ONLINE Alicization Lycoris",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -1984,7 +1984,7 @@
   {
     "url": "",
     "name": "Block N Load",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat",
       "VAC"
@@ -2013,7 +2013,7 @@
   {
     "url": "",
     "name": "KartRider",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -2125,7 +2125,7 @@
   {
     "url": "",
     "name": "Sword Art Online: Fatal Bullet",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -2167,7 +2167,7 @@
   {
     "url": "",
     "name": "Trials Rising",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -2230,7 +2230,7 @@
   {
     "url": "",
     "name": "Kritika:Reboot",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -2256,7 +2256,7 @@
   {
     "url": "",
     "name": "Beyond the Wire",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -2302,7 +2302,7 @@
   {
     "url": "",
     "name": "Rocket Arena",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -2420,7 +2420,7 @@
   {
     "url": "https://honkaiimpact3.mihoyo.com/",
     "name": "Honkai Impact 3rd",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -2438,7 +2438,7 @@
   {
     "url": "https://hsr.hoyoverse.com/",
     "name": "Honkai Star Rail",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "miHoYo Protect"
     ],
@@ -2469,7 +2469,7 @@
   {
     "url": "",
     "name": "APB Reloaded",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "SARD"
     ],
@@ -2540,7 +2540,7 @@
   {
     "url": "",
     "name": "PixARK",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -2554,7 +2554,7 @@
   {
     "url": "",
     "name": "Captain Tsubasa: Rise of New Champions",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -2582,7 +2582,7 @@
   {
     "url": "",
     "name": "ArmA 2: Operation Arrowhead",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -2594,7 +2594,7 @@
   {
     "url": "",
     "name": "LaTale",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -2606,7 +2606,7 @@
   {
     "url": "",
     "name": "Crysis: Warhead",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -2664,7 +2664,7 @@
   {
     "url": "",
     "name": "Battlefield V",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "FairFight",
       "EA anticheat"
@@ -2728,7 +2728,7 @@
   {
     "url": "",
     "name": "PangYa",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -2740,7 +2740,7 @@
   {
     "url": "",
     "name": "Quantum League",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -2782,7 +2782,7 @@
   {
     "url": "",
     "name": "Lemnis Gate",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -2829,7 +2829,7 @@
   {
     "url": "",
     "name": "Black Clover: Quartet Knights",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -2843,7 +2843,7 @@
   {
     "url": "",
     "name": "Nine to Five",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -2872,7 +2872,7 @@
   {
     "url": "https://archeageunchained.com/",
     "name": "Archeage: Unchained",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -2917,7 +2917,7 @@
   {
     "url": "",
     "name": "Call of Duty: Vanguard",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "RICOCHET"
     ],
@@ -2988,7 +2988,7 @@
   {
     "url": "https://www.bandainamcoent.com/games/naruto-to-boruto-shinobi-striker",
     "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -3002,7 +3002,7 @@
   {
     "url": "https://www.mythofempires.com/",
     "name": "Myth of Empires",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -3016,7 +3016,7 @@
   {
     "url": "https://leagueoflegends.com",
     "name": "League of Legends",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "Vanguard"
     ],
@@ -3089,7 +3089,7 @@
   {
     "url": "",
     "name": "Battlefleet Gothic: Armada 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -3103,7 +3103,7 @@
   {
     "url": "",
     "name": "SUPER PEOPLE",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -3117,7 +3117,7 @@
   {
     "url": "",
     "name": "Darwin Project",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -3186,7 +3186,7 @@
   {
     "url": "https://absolvergame.com/",
     "name": "Absolver",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -3214,7 +3214,7 @@
   {
     "url": "",
     "name": "Closers",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -3228,7 +3228,7 @@
   {
     "url": "",
     "name": "Allods Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Mail.ru Anti-Cheat"
     ],
@@ -3332,7 +3332,7 @@
   {
     "url": "https://en.another-eden.jp/",
     "name": "ANOTHER EDEN",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Crackproof",
       "WFSDrv"
@@ -3361,7 +3361,7 @@
   {
     "url": "",
     "name": "Century: Age of Ashes",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -3466,7 +3466,7 @@
   {
     "url": "https://www.playredfox.com/rumble_fighter",
     "name": "Rumble Fighter: Unleashed",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -3480,7 +3480,7 @@
   {
     "url": "https://www.focus-entmt.com/en/games/hood-outlaws-legends",
     "name": "Hood: Outlaws & Legends",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -3530,7 +3530,7 @@
   {
     "url": "https://www.nttgameonline.com/knight/",
     "name": "Knight Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap",
       "PunkBuster",
@@ -3546,7 +3546,7 @@
   {
     "url": "https://en.bandainamcoent.eu/dragon-ball/dragon-ball-the-breakers",
     "name": "DRAGON BALL: THE BREAKERS",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -3593,7 +3593,7 @@
   {
     "url": "https://www.lostlight.game/",
     "name": "Lost Light",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "NetEase Anti-Cheat Expert"
     ],
@@ -3649,7 +3649,7 @@
   {
     "url": "https://www.ea.com/de-de/games/fifa/fifa-23",
     "name": "EA SPORTS™ FIFA 23",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -3663,7 +3663,7 @@
   {
     "url": "https://www.callofduty.com/modernwarfare2/pc",
     "name": "Call of Duty: Modern Warfare II (2022)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "RICOCHET"
     ],
@@ -3732,7 +3732,7 @@
   {
     "url": "https://roblox.com",
     "name": "Roblox",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "Hyperion"
     ],
@@ -3744,7 +3744,7 @@
   {
     "url": "https://www.boundarygame.com/",
     "name": "Boundary",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -3788,7 +3788,7 @@
   {
     "url": "https://farlight84.farlightgames.com/",
     "name": "Farlight 84",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "NetEase Yidun"
     ],
@@ -3816,7 +3816,7 @@
   {
     "url": "https://nikke-en.com/",
     "name": "Nikke: Goddess of Victory",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -3869,7 +3869,7 @@
   {
     "url": "https://www.avaonline.global/",
     "name": "A.V.A Global",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -3881,7 +3881,7 @@
   {
     "url": "",
     "name": "Call of Duty: Modern Warfare III (2023)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "RICOCHET"
     ],
@@ -3950,7 +3950,7 @@
   {
     "url": "",
     "name": "Alien Arena: Warriors of Mars",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -3978,7 +3978,7 @@
   {
     "url": "",
     "name": "Realm Royale Reforged",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -4078,7 +4078,7 @@
   {
     "url": "",
     "name": "Block N Load 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -4092,7 +4092,7 @@
   {
     "url": "",
     "name": "HypeSquad",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -4120,7 +4120,7 @@
   {
     "url": "",
     "name": "F.E.A.R.",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -4148,7 +4148,7 @@
   {
     "url": "",
     "name": "EA SPORTS™ Madden NFL 24",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -4190,7 +4190,7 @@
   {
     "url": "",
     "name": "Dungeonborne",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -4204,7 +4204,7 @@
   {
     "url": "https://pc.wfclutch.com/",
     "name": "Warface: Clutch",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "FairFight",
       "MY.GAMES Anti-Cheat"
@@ -4241,7 +4241,7 @@
   {
     "url": "",
     "name": "SYNCED",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Proxima Game Anti Cheat",
       "Anti-Cheat Expert"
@@ -4314,7 +4314,7 @@
   {
     "url": "",
     "name": "EA SPORTS FC™ 24",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -4369,7 +4369,7 @@
   {
     "url": "https://fivem.net",
     "name": "FiveM",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "Unknown (Custom)"
     ],
@@ -4381,7 +4381,7 @@
   {
     "url": "",
     "name": "HAWKED",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "MY.GAMES Anti-Cheat"
     ],
@@ -4422,7 +4422,7 @@
   {
     "url": "",
     "name": "Frontlines: Fuel of War",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -4506,7 +4506,7 @@
   {
     "url": "",
     "name": "Teamfight Tactics",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "Vanguard"
     ],
@@ -4532,7 +4532,7 @@
   {
     "url": "",
     "name": "Elsword",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -4546,7 +4546,7 @@
   {
     "url": "",
     "name": "Counter-Strike 2 (FACEIT)",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "FACEIT"
     ],
@@ -4558,7 +4558,7 @@
   {
     "url": "",
     "name": "Battle Teams 2",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -4600,7 +4600,7 @@
   {
     "url": "",
     "name": "Aura Kingdom",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Unknown (Custom)"
     ],
@@ -4614,7 +4614,7 @@
   {
     "url": "",
     "name": "EA SPORTS FC™ 25",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -4628,7 +4628,7 @@
   {
     "url": "",
     "name": "Magicka: Wizard Wars",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -4652,7 +4652,7 @@
   {
     "url": "",
     "name": "MIR4",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -4664,7 +4664,7 @@
   {
     "url": "",
     "name": "F.E.A.R.: Perseus Mandate",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -4676,7 +4676,7 @@
   {
     "url": "",
     "name": "The Bornless",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -4719,7 +4719,7 @@
   {
     "url": "",
     "name": "Soldier Front 2",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -4761,7 +4761,7 @@
   {
     "url": "",
     "name": "Mecha BREAK",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert",
       "Seasun Protect"
@@ -4776,7 +4776,7 @@
   {
     "url": "",
     "name": "ARK 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -4800,7 +4800,7 @@
   {
     "url": "",
     "name": "EA SPORTS™ Madden NFL 25",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -4827,7 +4827,7 @@
   {
     "url": "",
     "name": "ALARA Prime",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -4855,7 +4855,7 @@
   {
     "url": "https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-garden-warfare-2",
     "name": "Plants vs Zombies: Garden Warfare 2",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -4881,7 +4881,7 @@
   {
     "url": "",
     "name": "Counter-Strike: Global Offensive (ESL)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "ESL Wire"
     ],
@@ -4893,7 +4893,7 @@
   {
     "url": "",
     "name": "Midair 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -4907,7 +4907,7 @@
   {
     "url": "",
     "name": "2XKO",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "Vanguard"
     ],
@@ -4919,7 +4919,7 @@
   {
     "url": "",
     "name": "Counter-Strike 2 (ESEA)",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "ESEA"
     ],
@@ -4931,7 +4931,7 @@
   {
     "url": "",
     "name": "SYNDUALITY Echo of Ada",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -4971,7 +4971,7 @@
   {
     "url": "",
     "name": "Counter-Strike 2 (ESL)",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "ESL Wire"
     ],
@@ -4983,7 +4983,7 @@
   {
     "url": "",
     "name": "Arena Breakout: Infinite",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -5037,7 +5037,7 @@
   {
     "url": "",
     "name": "Return Alive",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -5123,7 +5123,7 @@
   {
     "url": "",
     "name": "Battle Crush",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -5137,7 +5137,7 @@
   {
     "url": "",
     "name": "Call of Duty: Warzone 2.0",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "RICOCHET"
     ],
@@ -5149,7 +5149,7 @@
   {
     "url": "",
     "name": "Beautiful Light",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -5175,7 +5175,7 @@
   {
     "url": "",
     "name": "Wakerunners",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Nexon Game Security"
     ],
@@ -5187,7 +5187,7 @@
   {
     "url": "",
     "name": "Street Fighter V (ESL)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "ESL Wire"
     ],
@@ -5226,7 +5226,7 @@
   {
     "url": "",
     "name": "Mortal Kombat X (ESL)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "ESL Wire"
     ],
@@ -5238,7 +5238,7 @@
   {
     "url": "",
     "name": "Dota 2 (FACEIT)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "FACEIT"
     ],
@@ -5250,7 +5250,7 @@
   {
     "url": "",
     "name": "Perfect World M",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -5276,7 +5276,7 @@
   {
     "url": "",
     "name": "World of Tanks (ESL)",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "ESL Wire"
     ],
@@ -5288,7 +5288,7 @@
   {
     "url": "",
     "name": "EA SPORTS™ FIFA 23 (FACEIT)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "FACEIT"
     ],
@@ -5300,7 +5300,7 @@
   {
     "url": "",
     "name": "Call of Duty: Black Ops 6",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Treyarch Anti-Cheat",
       "RICOCHET"
@@ -5329,7 +5329,7 @@
   {
     "url": "",
     "name": "Mortal Kombat 11 (ESL)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "ESL Wire"
     ],
@@ -5341,7 +5341,7 @@
   {
     "url": "",
     "name": "League of Legends (FACEIT)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "FACEIT"
     ],
@@ -5353,7 +5353,7 @@
   {
     "url": "",
     "name": "Counter-Strike: Global Offensive (Esportal)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Esportal"
     ],
@@ -5393,7 +5393,7 @@
   {
     "url": "",
     "name": "Guilty Gear: Strive (ESL)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "ESL Wire"
     ],
@@ -5405,7 +5405,7 @@
   {
     "url": "",
     "name": "Rainbow Six: Siege (FACEIT)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "FACEIT"
     ],
@@ -5417,7 +5417,7 @@
   {
     "url": "",
     "name": "Dota 2 (Esportal)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Esportal"
     ],
@@ -5458,7 +5458,7 @@
   {
     "url": "",
     "name": "Tekken 7 (ESL)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "ESL Wire"
     ],
@@ -5470,7 +5470,7 @@
   {
     "url": "",
     "name": "Rocket League (FACEIT)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "FACEIT"
     ],
@@ -5482,7 +5482,7 @@
   {
     "url": "",
     "name": "Counter-Strike 2 (Esportal)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Esportal"
     ],
@@ -5494,7 +5494,7 @@
   {
     "url": "https://www.strinova.com/",
     "name": "Strinova",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -5520,7 +5520,7 @@
   {
     "url": "",
     "name": "FIFA 23 (ESL)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "ESL Wire"
     ],
@@ -5532,7 +5532,7 @@
   {
     "url": "",
     "name": "Overwatch 2 (FACEIT)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "FACEIT"
     ],
@@ -5570,7 +5570,7 @@
   {
     "url": "",
     "name": "Street Fighter 6 (ESL)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "ESL Wire"
     ],
@@ -5582,7 +5582,7 @@
   {
     "url": "",
     "name": "Valorant (FACEIT)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "FACEIT"
     ],
@@ -5618,7 +5618,7 @@
   {
     "url": "",
     "name": "NBA 2K24 (ESL)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "ESL Wire"
     ],
@@ -5656,7 +5656,7 @@
   {
     "url": "",
     "name": "Madden 23 (ESL)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "ESL Wire"
     ],
@@ -5696,7 +5696,7 @@
   {
     "url": "",
     "name": "NBA 2K23 (ESL)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "ESL Wire"
     ],
@@ -5722,7 +5722,7 @@
   {
     "url": "",
     "name": "Bleeding Edge",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -5736,7 +5736,7 @@
   {
     "url": "",
     "name": "Madden 24 (ESL)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "ESL Wire"
     ],
@@ -5788,7 +5788,7 @@
   {
     "url": "https://www.playdeltaforce.com/",
     "name": "Delta Force: Hawk Ops",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -5800,7 +5800,7 @@
   {
     "url": "",
     "name": "Lightning",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "GuardenAC"
     ],
@@ -5828,7 +5828,7 @@
   {
     "url": "",
     "name": "Brawlhalla (ESL)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "ESL Wire"
     ],
@@ -5840,7 +5840,7 @@
   {
     "url": "",
     "name": "N-Age",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -5868,7 +5868,7 @@
   {
     "url": "",
     "name": "EA SPORTS™ WRC 24",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -5910,7 +5910,7 @@
   {
     "url": "https://snowbreak.amazingseasun.com/",
     "name": "Snowbreak: Containment Zone (CN)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -5922,7 +5922,7 @@
   {
     "url": "",
     "name": "Decimated",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -6002,7 +6002,7 @@
   {
     "url": "",
     "name": "Exos Heroes",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -6016,7 +6016,7 @@
   {
     "url": "https://pnw.perfectworld.com/",
     "name": "Perfect New World",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -6058,7 +6058,7 @@
   {
     "url": "",
     "name": "Icarus Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3",
       "nProtect GameGuard"
@@ -6113,7 +6113,7 @@
   {
     "url": "https://www.bladeandsoul.com/",
     "name": "Blade & Soul",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VIOLET",
       "SARD"
@@ -6167,7 +6167,7 @@
   {
     "url": "",
     "name": "R2BEAT (アールツービート)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -6209,7 +6209,7 @@
   {
     "url": "",
     "name": "Miscreated",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "VAC",
       "Easy Anti-Cheat"
@@ -6224,7 +6224,7 @@
   {
     "url": "",
     "name": "Red Stone Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -6238,7 +6238,7 @@
   {
     "url": "",
     "name": "Ashfall",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "NEAC Protect",
       "NetEase Anti-Cheat Expert"
@@ -6253,7 +6253,7 @@
   {
     "url": "https://msawk.haoplay.com/",
     "name": "Metal Slug: Awakening",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -6309,7 +6309,7 @@
   {
     "url": "",
     "name": "Rappelz",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -6516,7 +6516,7 @@
   {
     "url": "",
     "name": "Royal Crown",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -6598,7 +6598,7 @@
   {
     "url": "",
     "name": "NEOTOKYO",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -6612,7 +6612,7 @@
   {
     "url": "",
     "name": "Warlords Awakening",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -6626,7 +6626,7 @@
   {
     "url": "",
     "name": "Infestation: Survivor Stories Classic",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -6650,7 +6650,7 @@
   {
     "url": "",
     "name": "Solider One",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "SARD"
     ],
@@ -6662,7 +6662,7 @@
   {
     "url": "",
     "name": "3on3 FreeStyle",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -6676,7 +6676,7 @@
   {
     "url": "",
     "name": "One Punch Man: A Hero Nobody Knows",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -6690,7 +6690,7 @@
   {
     "url": "",
     "name": "Counter-Strike: Global Offensive (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -6702,7 +6702,7 @@
   {
     "url": "",
     "name": "BlackShot: Mercenary Warfare FPS",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye",
       "nProtect GameGuard"
@@ -6715,7 +6715,7 @@
   {
     "url": "",
     "name": "Ring of Elysium",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "TenProtect"
     ],
@@ -6785,7 +6785,7 @@
   {
     "url": "",
     "name": "Shot Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -6825,7 +6825,7 @@
   {
     "url": "",
     "name": "Magic to Master",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "SARD"
     ],
@@ -6837,7 +6837,7 @@
   {
     "url": "",
     "name": "3on3 FreeStyle: Rebound",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -6849,7 +6849,7 @@
   {
     "url": "",
     "name": "Dual Universe",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -6863,7 +6863,7 @@
   {
     "url": "",
     "name": "Counter-Strike 2 (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -6875,7 +6875,7 @@
   {
     "url": "",
     "name": "Blacklight: Retribution",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -6889,7 +6889,7 @@
   {
     "url": "",
     "name": "ASTRA: Knights of Veda",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -6903,7 +6903,7 @@
   {
     "url": "",
     "name": "Infestation World",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Punkbuster",
       "Easy Anti-Cheat",
@@ -6917,7 +6917,7 @@
   {
     "url": "",
     "name": "War Rock",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "AhnLab HackShield",
       "PunkBuster",
@@ -6933,7 +6933,7 @@
   {
     "url": "",
     "name": "Metro Conflict",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -6959,7 +6959,7 @@
   {
     "url": "",
     "name": "Umbrella Corps",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Unknown (Custom)"
     ],
@@ -7025,7 +7025,7 @@
   {
     "url": "",
     "name": "Ragnarok Online Prime",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "SARD",
       "4game Guard / Frost Security"
@@ -7038,7 +7038,7 @@
   {
     "url": "",
     "name": "Bless Online",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye",
       "XIGNCODE3"
@@ -7053,7 +7053,7 @@
   {
     "url": "",
     "name": "Last Oasis",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7067,7 +7067,7 @@
   {
     "url": "",
     "name": "Counter-Strike: Global Offensive (GamersClub)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "EMAC LAB"
     ],
@@ -7079,7 +7079,7 @@
   {
     "url": "",
     "name": "DEAD CIDE CLUB",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -7091,7 +7091,7 @@
   {
     "url": "",
     "name": "League of Legends (CHN)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -7103,7 +7103,7 @@
   {
     "url": "",
     "name": "Infestation: The New Z",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Fredaikis Anti-Cheat"
     ],
@@ -7117,7 +7117,7 @@
   {
     "url": "",
     "name": "Ragnarok Online 2",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "AhnLab HackShield"
     ],
@@ -7131,7 +7131,7 @@
   {
     "url": "",
     "name": "GunZ: The Duel",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -7143,7 +7143,7 @@
   {
     "url": "",
     "name": "DUCKSIDE",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7157,7 +7157,7 @@
   {
     "url": "",
     "name": "Flippin Misfits",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7171,7 +7171,7 @@
   {
     "url": "",
     "name": "Roller Coaster Rampage",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -7185,7 +7185,7 @@
   {
     "url": "",
     "name": "Rakion Chaos Force",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard",
       "XIGNCODE3"
@@ -7226,7 +7226,7 @@
   {
     "url": "",
     "name": "Silkroad Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "SARD"
     ],
@@ -7238,7 +7238,7 @@
   {
     "url": "",
     "name": "Twin Saga",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -7252,7 +7252,7 @@
   {
     "url": "",
     "name": "AEW Fight Forever",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7264,7 +7264,7 @@
   {
     "url": "",
     "name": "Counter-Strike 2 (GamersClub)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "EMAC LAB"
     ],
@@ -7276,7 +7276,7 @@
   {
     "url": "",
     "name": "Just Survive",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -7305,7 +7305,7 @@
   {
     "url": "",
     "name": "Metin2 (KOR)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -7317,7 +7317,7 @@
   {
     "url": "",
     "name": "Infestation: Survivor Stories Revival",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Fredaikis Anti-Cheat"
     ],
@@ -7329,7 +7329,7 @@
   {
     "url": "",
     "name": "Arctic Combat",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "AhnLab HackShield"
     ],
@@ -7355,7 +7355,7 @@
   {
     "url": "",
     "name": "Granado Espada (KOR)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -7367,7 +7367,7 @@
   {
     "url": "",
     "name": "Granado Espada Japan",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -7381,7 +7381,7 @@
   {
     "url": "",
     "name": "Tarisland",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -7424,7 +7424,7 @@
   {
     "url": "",
     "name": "Dying Light: Bad Blood",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7436,7 +7436,7 @@
   {
     "url": "",
     "name": "Granado Espada (EUR)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -7448,7 +7448,7 @@
   {
     "url": "",
     "name": "TwelveSky 2 Classic",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -7460,7 +7460,7 @@
   {
     "url": "",
     "name": "Fault: Elder Orb",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7486,7 +7486,7 @@
   {
     "url": "",
     "name": "United 1944",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7500,7 +7500,7 @@
   {
     "url": "",
     "name": "Point Blank",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap",
       "SARD"
@@ -7513,7 +7513,7 @@
   {
     "url": "",
     "name": "ME_iON",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7525,7 +7525,7 @@
   {
     "url": "",
     "name": "Shadow Arena",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard",
       "XIGNCODE3",
@@ -7541,7 +7541,7 @@
   {
     "url": "",
     "name": "M.A.R.S.",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7555,7 +7555,7 @@
   {
     "url": "",
     "name": "Counter-Strike: Global Offensive (ESGPLAY)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -7567,7 +7567,7 @@
   {
     "url": "",
     "name": "The Culling 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7591,7 +7591,7 @@
   {
     "url": "",
     "name": "Undawn",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -7605,7 +7605,7 @@
   {
     "url": "",
     "name": "Infestation: Survivor Stories 2020",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster",
       "Easy Anti-Cheat",
@@ -7619,7 +7619,7 @@
   {
     "url": "",
     "name": "Florensia",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "AhnLab HackShield"
     ],
@@ -7633,7 +7633,7 @@
   {
     "url": "",
     "name": "Hero Plus",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap",
       "XIGNCODE3"
@@ -7662,7 +7662,7 @@
   {
     "url": "https://sealonline.playrohan.com/",
     "name": "Seal Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -7674,7 +7674,7 @@
   {
     "url": "",
     "name": "Half-Life: VR Mod",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -7688,7 +7688,7 @@
   {
     "url": "",
     "name": "Atlantica Global",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -7700,7 +7700,7 @@
   {
     "url": "",
     "name": "Atlantica Europe",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -7728,7 +7728,7 @@
   {
     "url": "",
     "name": "Lineage II",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "4game Guard / Frost Security",
       "Active Anticheat",
@@ -7743,7 +7743,7 @@
   {
     "url": "",
     "name": "Audition Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -7757,7 +7757,7 @@
   {
     "url": "",
     "name": "Summum Aeterna",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7771,7 +7771,7 @@
   {
     "url": "",
     "name": "Wild Card Football",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7785,7 +7785,7 @@
   {
     "url": "",
     "name": "Scavengers",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7825,7 +7825,7 @@
   {
     "url": "",
     "name": "Next Day: Survival",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7839,7 +7839,7 @@
   {
     "url": "",
     "name": "Team Fortress 2 (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -7851,7 +7851,7 @@
   {
     "url": "",
     "name": "Spirit Detective",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -7865,7 +7865,7 @@
   {
     "url": "",
     "name": "Chimeraland",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -7879,7 +7879,7 @@
   {
     "url": "",
     "name": "Infestation: Battle Royale",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Fredaikis Anti-Cheat"
     ],
@@ -7905,7 +7905,7 @@
   {
     "url": "",
     "name": "Tales Runner",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "X-Trap",
       "AhnLab HackShield",
@@ -7922,7 +7922,7 @@
   {
     "url": "",
     "name": "FinalCypher",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -7934,7 +7934,7 @@
   {
     "url": "",
     "name": "F1® 24",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -7948,7 +7948,7 @@
   {
     "url": "",
     "name": "Insurgency: Modern Infantry Combat",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -7962,7 +7962,7 @@
   {
     "url": "",
     "name": "Sentry：Obelisk Of Dawn",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -7976,7 +7976,7 @@
   {
     "url": "",
     "name": "Joint Operations: Escalation",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -7988,7 +7988,7 @@
   {
     "url": "",
     "name": "AION Classic",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "SARD"
     ],
@@ -8000,7 +8000,7 @@
   {
     "url": "",
     "name": "Dragomon Hunter",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -8042,7 +8042,7 @@
   {
     "url": "",
     "name": "Frozen Flame",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8056,7 +8056,7 @@
   {
     "url": "",
     "name": "RockShot",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8070,7 +8070,7 @@
   {
     "url": "",
     "name": "Wayfinder",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8084,7 +8084,7 @@
   {
     "url": "",
     "name": "Kingshunt",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8098,7 +8098,7 @@
   {
     "url": "",
     "name": "League of Legends (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -8110,7 +8110,7 @@
   {
     "url": "",
     "name": "SUPER PEOPLE 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -8122,7 +8122,7 @@
   {
     "url": "",
     "name": "Project N",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -8134,7 +8134,7 @@
   {
     "url": "",
     "name": "Nether: The Untold Chapter",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Fredaikis Anti-Cheat"
     ],
@@ -8148,7 +8148,7 @@
   {
     "url": "",
     "name": "Arcane Saga Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "AhnLab HackShield"
     ],
@@ -8160,7 +8160,7 @@
   {
     "url": "",
     "name": "GunZ 2: The Second Duel",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -8174,7 +8174,7 @@
   {
     "url": "",
     "name": "EA SPORTS™ FC 24 (FACEIT)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "FACEIT"
     ],
@@ -8186,7 +8186,7 @@
   {
     "url": "",
     "name": "Metal Revolution",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "TenProtect"
     ],
@@ -8226,7 +8226,7 @@
   {
     "url": "",
     "name": "Guardian Chronicle",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -8252,7 +8252,7 @@
   {
     "url": "",
     "name": "Ragnarok Online",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat",
       "SARD"
@@ -8267,7 +8267,7 @@
   {
     "url": "",
     "name": "Zyconix",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -8281,7 +8281,7 @@
   {
     "url": "",
     "name": "Smelogs Playground",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8295,7 +8295,7 @@
   {
     "url": "",
     "name": "A Twisted Path to Renown",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8323,7 +8323,7 @@
   {
     "url": "",
     "name": "Life is Feudal: MMO",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8337,7 +8337,7 @@
   {
     "url": "",
     "name": "Babylon's Fall",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8351,7 +8351,7 @@
   {
     "url": "",
     "name": "Ashes of Creation Apocalypse",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat",
       "MY.GAMES Anti-Cheat"
@@ -8366,7 +8366,7 @@
   {
     "url": "",
     "name": "DotA 2 (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -8390,7 +8390,7 @@
   {
     "url": "",
     "name": "仙侠世界 (The Mythical Realm)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "TenProtect",
       "nProtect GameGuard"
@@ -8403,7 +8403,7 @@
   {
     "url": "",
     "name": "Romero's Aftermath",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Fredaikis Anti-Cheat",
       "Easy Anti-Cheat"
@@ -8416,7 +8416,7 @@
   {
     "url": "",
     "name": "District 187",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "AhnLab HackShield"
     ],
@@ -8428,7 +8428,7 @@
   {
     "url": "",
     "name": "CrossFire",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap",
       "XIGNCODE3"
@@ -8441,7 +8441,7 @@
   {
     "url": "",
     "name": "EA SPORTS™ FC 25 (FACEIT)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "FACEIT"
     ],
@@ -8453,7 +8453,7 @@
   {
     "url": "",
     "name": "Neverness to Everness",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Crackproof",
       "KSophon"
@@ -8466,7 +8466,7 @@
   {
     "url": "",
     "name": "Warhammer 40,000: Space Marine 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8490,7 +8490,7 @@
   {
     "url": "",
     "name": "9Dragons",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -8518,7 +8518,7 @@
   {
     "url": "",
     "name": "Lineage II Essence",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Active Anticheat",
       "4game Guard / Frost Security",
@@ -8532,7 +8532,7 @@
   {
     "url": "",
     "name": "Eternal Kingdom Battle Peak",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -8560,7 +8560,7 @@
   {
     "url": "",
     "name": "Argentum Online",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8572,7 +8572,7 @@
   {
     "url": "",
     "name": "Starship Troopers: Extermination",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8586,7 +8586,7 @@
   {
     "url": "",
     "name": "Alvo VR",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8610,7 +8610,7 @@
   {
     "url": "",
     "name": "Anarchy: Wolf's Law",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8624,7 +8624,7 @@
   {
     "url": "",
     "name": "Rocket League (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -8636,7 +8636,7 @@
   {
     "url": "",
     "name": "Argo",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -8665,7 +8665,7 @@
   {
     "url": "",
     "name": "12Tails",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Fredaikis Anti-Cheat"
     ],
@@ -8677,7 +8677,7 @@
   {
     "url": "",
     "name": "CrimeCraft",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap",
       "AhnLab HackShield"
@@ -8690,7 +8690,7 @@
   {
     "url": "",
     "name": "LastChaos",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap",
       "nProtect GameGuard",
@@ -8704,7 +8704,7 @@
   {
     "url": "",
     "name": "King Arthur: Legends Rise",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -8718,7 +8718,7 @@
   {
     "url": "",
     "name": "Once Human (CHN)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "NEAC Protect",
       "NetEase Anti-Cheat Expert"
@@ -8746,7 +8746,7 @@
   {
     "url": "",
     "name": "Record of Lodoss War Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -8772,7 +8772,7 @@
   {
     "url": "",
     "name": "Ragnarok Landverse",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "SARD"
     ],
@@ -8784,7 +8784,7 @@
   {
     "url": "",
     "name": "Sword Art Online: Integral Factor",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -8840,7 +8840,7 @@
   {
     "url": "",
     "name": "Shoot on Sight",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat",
       "AnyBrain"
@@ -8883,7 +8883,7 @@
   {
     "url": "",
     "name": "Call of Duty: Black Ops 3 (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -8895,7 +8895,7 @@
   {
     "url": "",
     "name": "Fear the Night",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -8909,7 +8909,7 @@
   {
     "url": "",
     "name": "全民街篮 (National Street Basketball)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -8921,7 +8921,7 @@
   {
     "url": "",
     "name": "Combat Arms",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "AhnLab HackShield",
       "Nexon Game Security"
@@ -8934,7 +8934,7 @@
   {
     "url": "",
     "name": "Tower Alliance Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -8946,7 +8946,7 @@
   {
     "url": "",
     "name": "Revenblade",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -8986,7 +8986,7 @@
   {
     "url": "",
     "name": "Legend of Ares",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap",
       "nProtect GameGuard"
@@ -9015,7 +9015,7 @@
   {
     "url": "",
     "name": "Hide or Die",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "EQU8"
     ],
@@ -9029,7 +9029,7 @@
   {
     "url": "",
     "name": "Kingdom Under Fire 2",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -9041,7 +9041,7 @@
   {
     "url": "",
     "name": "RIDE 5",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9053,7 +9053,7 @@
   {
     "url": "",
     "name": "Guilty Gear: Strive (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -9065,7 +9065,7 @@
   {
     "url": "",
     "name": "Phantomers",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -9077,7 +9077,7 @@
   {
     "url": "",
     "name": "Honkai Impact 3rd (CHN)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -9089,7 +9089,7 @@
   {
     "url": "https://parapa.ru",
     "name": "Para Pa",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -9101,7 +9101,7 @@
   {
     "url": "https://fatetrigger.com/",
     "name": "Fate Trigger：The Novita",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -9142,7 +9142,7 @@
   {
     "url": "",
     "name": "NAVYFIELD",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -9168,7 +9168,7 @@
   {
     "url": "",
     "name": "轮回之沙 (Sands of Reincarnation)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "TenProtect"
     ],
@@ -9194,7 +9194,7 @@
   {
     "url": "",
     "name": "Dreadnought",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9208,7 +9208,7 @@
   {
     "url": "",
     "name": "WolfTeam Turkey",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9234,7 +9234,7 @@
   {
     "url": "",
     "name": "Yulgang TH",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9246,7 +9246,7 @@
   {
     "url": "",
     "name": "Rise of Agon",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9260,7 +9260,7 @@
   {
     "url": "",
     "name": "Counter-Strike 2 (ESGPLAY)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -9272,7 +9272,7 @@
   {
     "url": "",
     "name": "BlackShot Revolution",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard",
       "BattlEye"
@@ -9285,7 +9285,7 @@
   {
     "url": "",
     "name": "Cabal Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap",
       "nProtect GameGuard",
@@ -9301,7 +9301,7 @@
   {
     "url": "",
     "name": "Anarchy Legends Online",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9315,7 +9315,7 @@
   {
     "url": "",
     "name": "The Crew™ Motorfest",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -9343,7 +9343,7 @@
   {
     "url": "",
     "name": "Legend of Edda: Pegasus",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -9355,7 +9355,7 @@
   {
     "url": "",
     "name": "Enemy Territory: Quake Wars",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Punkbuster"
     ],
@@ -9367,7 +9367,7 @@
   {
     "url": "",
     "name": "Metro Conflict: The Origin",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -9381,7 +9381,7 @@
   {
     "url": "",
     "name": "Space Junkies",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9395,7 +9395,7 @@
   {
     "url": "",
     "name": "Kritika Online SEA",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9407,7 +9407,7 @@
   {
     "url": "",
     "name": "Last Year",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9421,7 +9421,7 @@
   {
     "url": "",
     "name": "Rend",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9449,7 +9449,7 @@
   {
     "url": "",
     "name": "Apex Legends (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -9475,7 +9475,7 @@
   {
     "url": "",
     "name": "江湖客栈-单人模式 (Journeyman's Inn)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -9487,7 +9487,7 @@
   {
     "url": "https://dmg.priconne-redive.jp",
     "name": "Princess Connect! Re:Dive",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "CrackProof"
     ],
@@ -9499,7 +9499,7 @@
   {
     "url": "https://pt1.subagames.com/",
     "name": "Priston Tale",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -9511,7 +9511,7 @@
   {
     "url": "",
     "name": "EA SPORTS FC™ 26",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -9523,7 +9523,7 @@
   {
     "url": " Speculative",
     "name": "Dominance",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9537,7 +9537,7 @@
   {
     "url": "",
     "name": "Project Zero",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9563,7 +9563,7 @@
   {
     "url": "",
     "name": "Summoners War",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -9575,7 +9575,7 @@
   {
     "url": "",
     "name": "Joint Operations: Combined Arms Gold",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Punkbuster"
     ],
@@ -9589,7 +9589,7 @@
   {
     "url": "",
     "name": "MARVEL End Time Arena",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -9617,7 +9617,7 @@
   {
     "url": "",
     "name": "Teamfight Tactics (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -9629,7 +9629,7 @@
   {
     "url": "",
     "name": "Zula Global",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -9643,7 +9643,7 @@
   {
     "url": "",
     "name": "仙侠世界2 (The Mythical Realm 2)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "TenProtect",
       "nProtect GameGuard",
@@ -9657,7 +9657,7 @@
   {
     "url": "",
     "name": "Rusty Hearts",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -9681,7 +9681,7 @@
   {
     "url": "",
     "name": "Contractors Showdown",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9693,7 +9693,7 @@
   {
     "url": "",
     "name": "IL-2 Sturmovik: Cliffs of Dover",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -9707,7 +9707,7 @@
   {
     "url": "",
     "name": "TEMPEST: Tower of Probatio",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -9721,7 +9721,7 @@
   {
     "url": "",
     "name": "Bullet Run",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -9761,7 +9761,7 @@
   {
     "url": "",
     "name": "EA Sports FC™ 24 (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -9773,7 +9773,7 @@
   {
     "url": "",
     "name": "Hyper Scape",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -9785,7 +9785,7 @@
   {
     "url": "",
     "name": "HIS (Heroes In the Sky)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -9799,7 +9799,7 @@
   {
     "url": "",
     "name": "Flea Madness",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9827,7 +9827,7 @@
   {
     "url": "",
     "name": "Nether: Resurrected",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -9839,7 +9839,7 @@
   {
     "url": "",
     "name": "LUNIA Z: Revival",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -9851,7 +9851,7 @@
   {
     "url": "",
     "name": "Joint Operations: Typhoon Rising",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -9863,7 +9863,7 @@
   {
     "url": "",
     "name": "Cronous",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -9875,7 +9875,7 @@
   {
     "url": "",
     "name": "Sweet Time",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -9889,7 +9889,7 @@
   {
     "url": "",
     "name": "WarCraft III (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -9927,7 +9927,7 @@
   {
     "url": "",
     "name": "Summoners War: Chronicles",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -9941,7 +9941,7 @@
   {
     "url": "",
     "name": "America's Army 3",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -9955,7 +9955,7 @@
   {
     "url": "",
     "name": "Eternal Magic",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -9969,7 +9969,7 @@
   {
     "url": "",
     "name": "WolfTeam",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat",
       "XIGNCODE3"
@@ -9982,7 +9982,7 @@
   {
     "url": "",
     "name": "SMITE (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -9994,7 +9994,7 @@
   {
     "url": "",
     "name": "X-beat",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -10006,7 +10006,7 @@
   {
     "url": "",
     "name": "F1® 25",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -10018,7 +10018,7 @@
   {
     "url": "",
     "name": "Midnight Guns",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10046,7 +10046,7 @@
   {
     "url": "",
     "name": "O2Jam Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -10058,7 +10058,7 @@
   {
     "url": "",
     "name": "Battlefield Heroes",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -10070,7 +10070,7 @@
   {
     "url": "",
     "name": "MilkChoco",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -10096,7 +10096,7 @@
   {
     "url": "",
     "name": "Krunker (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -10108,7 +10108,7 @@
   {
     "url": "",
     "name": "War Rock 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10134,7 +10134,7 @@
   {
     "url": "",
     "name": "Legend of mir2",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -10146,7 +10146,7 @@
   {
     "url": "",
     "name": "Mu",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -10158,7 +10158,7 @@
   {
     "url": "",
     "name": "GunBound",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -10196,7 +10196,7 @@
   {
     "url": "",
     "name": "Ragnarok: The Lost Memories",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -10210,7 +10210,7 @@
   {
     "url": "",
     "name": "Elyon",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -10224,7 +10224,7 @@
   {
     "url": "",
     "name": "Zone4",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -10238,7 +10238,7 @@
   {
     "url": "",
     "name": "Ragnarok RE:START",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10252,7 +10252,7 @@
   {
     "url": "",
     "name": "Decksplash",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10266,7 +10266,7 @@
   {
     "url": "",
     "name": "Robocraft Royale",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10280,7 +10280,7 @@
   {
     "url": "",
     "name": "Warface Turkey",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10306,7 +10306,7 @@
   {
     "url": "",
     "name": "Warhammer 40,000: Eternal Crusade",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10320,7 +10320,7 @@
   {
     "url": "",
     "name": "Continent of the Ninth Seal",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -10334,7 +10334,7 @@
   {
     "url": "",
     "name": "ArcheAge",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10348,7 +10348,7 @@
   {
     "url": "",
     "name": "Dekaron Online TH",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10360,7 +10360,7 @@
   {
     "url": "",
     "name": "Worlds Adrift",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10374,7 +10374,7 @@
   {
     "url": "",
     "name": "The Riflemen",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10388,7 +10388,7 @@
   {
     "url": "",
     "name": "Mu Online PH",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10400,7 +10400,7 @@
   {
     "url": "",
     "name": "Code of Ashes",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10412,7 +10412,7 @@
   {
     "url": "",
     "name": "Farlight 84 (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -10424,7 +10424,7 @@
   {
     "url": "",
     "name": "ACE Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -10436,7 +10436,7 @@
   {
     "url": "",
     "name": "EA SPORTS™ Madden NFL 26",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -10450,7 +10450,7 @@
   {
     "url": "",
     "name": "Exoborne",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert",
       "AnyBrain"
@@ -10479,7 +10479,7 @@
   {
     "url": "",
     "name": "MU Legend",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -10493,7 +10493,7 @@
   {
     "url": "",
     "name": "Phantasy Star Online Blue Burst",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -10505,7 +10505,7 @@
   {
     "url": "",
     "name": "Dekaron",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -10517,7 +10517,7 @@
   {
     "url": "",
     "name": "Legend of mir3",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -10529,7 +10529,7 @@
   {
     "url": "",
     "name": "Soldier of Fortune II: Double Helix",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -10541,7 +10541,7 @@
   {
     "url": "",
     "name": "Kingdom: The Blood",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -10555,7 +10555,7 @@
   {
     "url": "",
     "name": "Ghost in the Shell: Stand Alone Complex - First Assault Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -10569,7 +10569,7 @@
   {
     "url": "",
     "name": "EA Sports FC™ 25 (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -10581,7 +10581,7 @@
   {
     "url": "",
     "name": "Soul Dossier",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -10595,7 +10595,7 @@
   {
     "url": "",
     "name": "Brick-Force",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -10619,7 +10619,7 @@
   {
     "url": "",
     "name": "Ragnarok Begins",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "SARD"
     ],
@@ -10659,7 +10659,7 @@
   {
     "url": "",
     "name": "Dance! Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -10671,7 +10671,7 @@
   {
     "url": "",
     "name": "DigimonRPG",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -10683,7 +10683,7 @@
   {
     "url": "",
     "name": "EZ Fighter",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -10695,7 +10695,7 @@
   {
     "url": "",
     "name": "Gersang",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -10735,7 +10735,7 @@
   {
     "url": "",
     "name": "Run and Fire",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -10763,7 +10763,7 @@
   {
     "url": "",
     "name": "Crowz",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -10777,7 +10777,7 @@
   {
     "url": "",
     "name": "S4 League",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat",
       "BattlEye"
@@ -10790,7 +10790,7 @@
   {
     "url": "",
     "name": "MU Legend PH",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10802,7 +10802,7 @@
   {
     "url": "",
     "name": "Stay Out",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10844,7 +10844,7 @@
   {
     "url": "",
     "name": "Last Chaos TH",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -10856,7 +10856,7 @@
   {
     "url": "",
     "name": "Overwatch 2 (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -10868,7 +10868,7 @@
   {
     "url": "",
     "name": "Propnight",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -10882,7 +10882,7 @@
   {
     "url": "",
     "name": "Lost Ark (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -10894,7 +10894,7 @@
   {
     "url": "",
     "name": "AVA: Dog Tag",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -10908,7 +10908,7 @@
   {
     "url": "",
     "name": "Grand mar",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -10920,7 +10920,7 @@
   {
     "url": "",
     "name": "Ragnarok V: Returns",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "SARD"
     ],
@@ -10932,7 +10932,7 @@
   {
     "url": "",
     "name": "KRITIKA:Zero",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -10944,7 +10944,7 @@
   {
     "url": "",
     "name": "Need for Speed: ProStreet",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -10956,7 +10956,7 @@
   {
     "url": "",
     "name": "Call of Duty: Mobile",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -10968,7 +10968,7 @@
   {
     "url": "",
     "name": "Microvolts",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -11008,7 +11008,7 @@
   {
     "url": "",
     "name": "Loadout",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Valve Anti-Cheat"
     ],
@@ -11022,7 +11022,7 @@
   {
     "url": "",
     "name": "Riders of Icarus",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11036,7 +11036,7 @@
   {
     "url": "",
     "name": "Golf King",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11048,7 +11048,7 @@
   {
     "url": "",
     "name": "Qplay",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11060,7 +11060,7 @@
   {
     "url": "",
     "name": "Ran Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11072,7 +11072,7 @@
   {
     "url": "",
     "name": "Yogurting",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11084,7 +11084,7 @@
   {
     "url": "",
     "name": "Battlefield Play4Free",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -11096,7 +11096,7 @@
   {
     "url": "",
     "name": "Freestyle 2: Street Basketball",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -11110,7 +11110,7 @@
   {
     "url": "",
     "name": "The King of Fighters All Star",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -11122,7 +11122,7 @@
   {
     "url": "",
     "name": "Ashes of Creation",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11134,7 +11134,7 @@
   {
     "url": "",
     "name": "CityBattle | Virtual_Earth",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11148,7 +11148,7 @@
   {
     "url": "",
     "name": "Fear the Wolves",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11176,7 +11176,7 @@
   {
     "url": "",
     "name": "Dreadlands",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11190,7 +11190,7 @@
   {
     "url": "",
     "name": "Legends of Kailrate",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11204,7 +11204,7 @@
   {
     "url": "",
     "name": "Diabotical (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -11216,7 +11216,7 @@
   {
     "url": "",
     "name": "Survarium",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -11230,7 +11230,7 @@
   {
     "url": "",
     "name": "Need For Speed Mobile",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -11242,7 +11242,7 @@
   {
     "url": "",
     "name": "ZMR",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -11254,7 +11254,7 @@
   {
     "url": "",
     "name": "MotoGP™25",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11268,7 +11268,7 @@
   {
     "url": "",
     "name": "Total Lockdown",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11296,7 +11296,7 @@
   {
     "url": "",
     "name": "Dark Eden",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11310,7 +11310,7 @@
   {
     "url": "",
     "name": "GUNSTER",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11322,7 +11322,7 @@
   {
     "url": "",
     "name": "KOP",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11334,7 +11334,7 @@
   {
     "url": "",
     "name": "Mission花札",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11346,7 +11346,7 @@
   {
     "url": "",
     "name": "Battlefield 2142",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -11358,7 +11358,7 @@
   {
     "url": "",
     "name": "FreeStyleFootball",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -11384,7 +11384,7 @@
   {
     "url": "",
     "name": "Vegas Infinite by PokerStars",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11398,7 +11398,7 @@
   {
     "url": "",
     "name": "Beasts of Bermuda",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11412,7 +11412,7 @@
   {
     "url": "",
     "name": "Project Cumberland",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11438,7 +11438,7 @@
   {
     "url": "",
     "name": "Ghost Online TH",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11450,7 +11450,7 @@
   {
     "url": "",
     "name": "Sabotaj TR",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11462,7 +11462,7 @@
   {
     "url": "",
     "name": "Quake 3 Arena (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -11474,7 +11474,7 @@
   {
     "url": "",
     "name": "SOS",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -11488,7 +11488,7 @@
   {
     "url": "",
     "name": "Call of Duty: Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -11500,7 +11500,7 @@
   {
     "url": "",
     "name": "SD Gundam Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -11550,7 +11550,7 @@
   {
     "url": "",
     "name": "ATrix",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11562,7 +11562,7 @@
   {
     "url": "",
     "name": "zzanggu-springs",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11574,7 +11574,7 @@
   {
     "url": "",
     "name": "NewBaseBall",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11598,7 +11598,7 @@
   {
     "url": "",
     "name": "Trickster",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11610,7 +11610,7 @@
   {
     "url": "",
     "name": "Battlefield Vietnam",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -11622,7 +11622,7 @@
   {
     "url": "",
     "name": "S.K.I.L.L. - Special Force 2",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -11634,7 +11634,7 @@
   {
     "url": "",
     "name": "MicroVolts Surge",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -11646,7 +11646,7 @@
   {
     "url": "",
     "name": "Audition Next Level",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11672,7 +11672,7 @@
   {
     "url": "",
     "name": "P53:MONARCH",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11684,7 +11684,7 @@
   {
     "url": "",
     "name": "Mobile Suit Gundam Battle Operation 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11712,7 +11712,7 @@
   {
     "url": "",
     "name": "Naraka: Bladepoint (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -11724,7 +11724,7 @@
   {
     "url": "",
     "name": "Islands of Nyne: Battle Royale",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -11738,7 +11738,7 @@
   {
     "url": "",
     "name": "Hazard Ops",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -11750,7 +11750,7 @@
   {
     "url": "",
     "name": "MapleStory 2",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Nexon Game Security"
     ],
@@ -11764,7 +11764,7 @@
   {
     "url": "",
     "name": "Contenders: Arena",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11806,7 +11806,7 @@
   {
     "url": "",
     "name": "iStorm",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11820,7 +11820,7 @@
   {
     "url": "",
     "name": "Dragon Sky",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11832,7 +11832,7 @@
   {
     "url": "",
     "name": "Ernis&Fricky",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11856,7 +11856,7 @@
   {
     "url": "",
     "name": "Elsword (JPN)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -11880,7 +11880,7 @@
   {
     "url": "",
     "name": "Project Nebula",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11892,7 +11892,7 @@
   {
     "url": "",
     "name": "Reign of Kings",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11906,7 +11906,7 @@
   {
     "url": "",
     "name": "Special Force 2 - PlayPark PH",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -11918,7 +11918,7 @@
   {
     "url": "",
     "name": "Mechabellum (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -11930,7 +11930,7 @@
   {
     "url": "",
     "name": "Mirror War",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -11982,7 +11982,7 @@
   {
     "url": "",
     "name": "Dark Eden Origin",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -11996,7 +11996,7 @@
   {
     "url": "",
     "name": "Yaburi",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12008,7 +12008,7 @@
   {
     "url": "",
     "name": "新天上碑",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12062,7 +12062,7 @@
   {
     "url": "",
     "name": "Dysterra",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12076,7 +12076,7 @@
   {
     "url": "",
     "name": "Heat",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12090,7 +12090,7 @@
   {
     "url": "",
     "name": "PUBG: Battlegrounds (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -12116,7 +12116,7 @@
   {
     "url": "",
     "name": "Club Audition",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -12128,7 +12128,7 @@
   {
     "url": "",
     "name": "Space Gears",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -12156,7 +12156,7 @@
   {
     "url": "",
     "name": "Moonbase Alpha",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -12170,7 +12170,7 @@
   {
     "url": "",
     "name": "大海战 Navy Field IV",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12182,7 +12182,7 @@
   {
     "url": "",
     "name": "Onair Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12194,7 +12194,7 @@
   {
     "url": "",
     "name": "STYLIA",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12218,7 +12218,7 @@
   {
     "url": "",
     "name": "Karos",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -12246,7 +12246,7 @@
   {
     "url": "",
     "name": "Warcos",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12260,7 +12260,7 @@
   {
     "url": "",
     "name": "CODE2040",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12274,7 +12274,7 @@
   {
     "url": "",
     "name": "Forts (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -12286,7 +12286,7 @@
   {
     "url": "www.dragona.online",
     "name": "Dragona",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -12298,7 +12298,7 @@
   {
     "url": "",
     "name": "Raise Your Tribe",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12312,7 +12312,7 @@
   {
     "url": "",
     "name": "Tasty Shame in Silver Soul!",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12324,7 +12324,7 @@
   {
     "url": "",
     "name": "CityBattle | Virtual Earth (EU)",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12336,7 +12336,7 @@
   {
     "url": "https://rfonlineglobal.com/",
     "name": "RF Online",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard",
       "Easy Anti-Cheat"
@@ -12349,7 +12349,7 @@
   {
     "url": "",
     "name": "Crasher",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -12361,7 +12361,7 @@
   {
     "url": "",
     "name": "RaiderZ",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12387,7 +12387,7 @@
   {
     "url": "",
     "name": "Fanta-Tennis",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12413,7 +12413,7 @@
   {
     "url": "",
     "name": "Astellia",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -12427,7 +12427,7 @@
   {
     "url": "",
     "name": "Blockade",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12441,7 +12441,7 @@
   {
     "url": "",
     "name": "Hearthstone (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -12453,7 +12453,7 @@
   {
     "url": "",
     "name": "Deathgarden: Bloodharvest",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -12467,7 +12467,7 @@
   {
     "url": "",
     "name": "TwelveSky 2",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -12479,7 +12479,7 @@
   {
     "url": "",
     "name": "Island games",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12491,7 +12491,7 @@
   {
     "url": "",
     "name": "Robocraft 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12519,7 +12519,7 @@
   {
     "url": "",
     "name": "Dark Blood Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12531,7 +12531,7 @@
   {
     "url": "",
     "name": "生死狙击：战火重燃（国际版）",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12543,7 +12543,7 @@
   {
     "url": "https://www.gamecity.ne.jp/sol",
     "name": "Sangokushi Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12569,7 +12569,7 @@
   {
     "url": "",
     "name": "Tree of Life",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -12583,7 +12583,7 @@
   {
     "url": "",
     "name": "Longvinter",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12611,7 +12611,7 @@
   {
     "url": "",
     "name": "Reign Of Dwarf",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12625,7 +12625,7 @@
   {
     "url": "",
     "name": "The Finals (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -12637,7 +12637,7 @@
   {
     "url": "",
     "name": "Escape from Tarkov: Arena",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -12649,7 +12649,7 @@
   {
     "url": "",
     "name": "Mixmaster",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -12661,7 +12661,7 @@
   {
     "url": "",
     "name": "shaiya",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -12675,7 +12675,7 @@
   {
     "url": "",
     "name": "MapleStory Worlds",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Nexon Game Security"
     ],
@@ -12701,7 +12701,7 @@
   {
     "url": "",
     "name": "Trinium Wars",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12713,7 +12713,7 @@
   {
     "url": "",
     "name": "Extreme Soccer",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12727,7 +12727,7 @@
   {
     "url": "",
     "name": "R2Beat: 音速觉醒",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12739,7 +12739,7 @@
   {
     "url": "",
     "name": "Tom Clancy's Rainbow Six: Lockdown",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -12753,7 +12753,7 @@
   {
     "url": "",
     "name": "SoulSaverOnline",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -12781,7 +12781,7 @@
   {
     "url": "",
     "name": "Shaiya PH",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12793,7 +12793,7 @@
   {
     "url": "",
     "name": "SMITE 2 (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -12805,7 +12805,7 @@
   {
     "url": "",
     "name": "Zula Türkiye",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -12817,7 +12817,7 @@
   {
     "url": "",
     "name": "KAL Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -12831,7 +12831,7 @@
   {
     "url": "",
     "name": "Tree of Savior (Korean Ver.)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Nexon Game Security"
     ],
@@ -12843,7 +12843,7 @@
   {
     "url": "",
     "name": "Project ETHOS",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12881,7 +12881,7 @@
   {
     "url": "",
     "name": "COMEONBABY",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -12893,7 +12893,7 @@
   {
     "url": "",
     "name": "Assassin's Creed: Revelations",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -12907,7 +12907,7 @@
   {
     "url": "",
     "name": "WolfTeam: Classic",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -12919,7 +12919,7 @@
   {
     "url": "",
     "name": "Fractured Lands",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -12933,7 +12933,7 @@
   {
     "url": "",
     "name": "Lost Light (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -12945,7 +12945,7 @@
   {
     "url": "",
     "name": "Luna Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -12985,7 +12985,7 @@
   {
     "url": "",
     "name": "Fortress Forever",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -12999,7 +12999,7 @@
   {
     "url": "",
     "name": "Crazy Arcade",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -13025,7 +13025,7 @@
   {
     "url": "",
     "name": "EOS Ragnarok",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -13037,7 +13037,7 @@
   {
     "url": "",
     "name": "War of the Vikings",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -13049,7 +13049,7 @@
   {
     "url": "",
     "name": "iRacing (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -13061,7 +13061,7 @@
   {
     "url": "",
     "name": "Battalion 1944",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat",
       "BattlEye"
@@ -13074,7 +13074,7 @@
   {
     "url": "",
     "name": "Audition 2",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -13086,7 +13086,7 @@
   {
     "url": "",
     "name": "Sparkball",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -13126,7 +13126,7 @@
   {
     "url": "",
     "name": "CTRACER ONLINE",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -13138,7 +13138,7 @@
   {
     "url": "",
     "name": "Space Nations - Battlearena",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -13150,7 +13150,7 @@
   {
     "url": "",
     "name": "Moonbreaker (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -13162,7 +13162,7 @@
   {
     "url": "",
     "name": "Zula Europe",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -13174,7 +13174,7 @@
   {
     "url": "",
     "name": "Audition 3 WIA",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -13212,7 +13212,7 @@
   {
     "url": "",
     "name": "War of the Roses",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -13224,7 +13224,7 @@
   {
     "url": "",
     "name": "Bots",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -13252,7 +13252,7 @@
   {
     "url": "",
     "name": "WolfTeam: Reboot",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -13266,7 +13266,7 @@
   {
     "url": "",
     "name": "Sabotaj",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -13278,7 +13278,7 @@
   {
     "url": "",
     "name": "Warhammer Age of Sigmar: Realms of Ruin (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -13302,7 +13302,7 @@
   {
     "url": "",
     "name": "RhythmNjoy",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -13314,7 +13314,7 @@
   {
     "url": "",
     "name": "LawBreakers",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Nexon Game Security"
     ],
@@ -13354,7 +13354,7 @@
   {
     "url": "",
     "name": "Rising Storm",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -13366,7 +13366,7 @@
   {
     "url": "",
     "name": "ETERNALCITY THE ACCELERATION",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -13378,7 +13378,7 @@
   {
     "url": "",
     "name": "Crysis Wars",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -13404,7 +13404,7 @@
   {
     "url": "",
     "name": "WarCraft III: Reforged (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -13416,7 +13416,7 @@
   {
     "url": "",
     "name": "Talesweaver",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -13428,7 +13428,7 @@
   {
     "url": "",
     "name": "Counter-Strike Nexon",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Nexon Game Security"
     ],
@@ -13470,7 +13470,7 @@
   {
     "url": "",
     "name": "Navy Field 2 : Conqueror of the Ocean",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -13496,7 +13496,7 @@
   {
     "url": "",
     "name": "Scions of Fate",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -13510,7 +13510,7 @@
   {
     "url": "",
     "name": "Intershelter",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -13524,7 +13524,7 @@
   {
     "url": "",
     "name": "Fangs (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -13536,7 +13536,7 @@
   {
     "url": "",
     "name": "MuMu Player",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "NEAC Protect"
     ],
@@ -13574,7 +13574,7 @@
   {
     "url": "",
     "name": "PUBG Lite",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Uncheater"
     ],
@@ -13586,7 +13586,7 @@
   {
     "url": "",
     "name": "Legends of Runeterra",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Packman"
     ],
@@ -13612,7 +13612,7 @@
   {
     "url": "",
     "name": "Counter-Strike Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "AhnLab HackShield"
     ],
@@ -13624,7 +13624,7 @@
   {
     "url": "",
     "name": "Undefeated Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -13650,7 +13650,7 @@
   {
     "url": "https://www.kogama.com/",
     "name": "KoGaMa",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Unknown (Custom)"
     ],
@@ -13662,7 +13662,7 @@
   {
     "url": "",
     "name": "Lunia Z Global",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -13702,7 +13702,7 @@
   {
     "url": "",
     "name": "Phantasy Star Universe",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -13714,7 +13714,7 @@
   {
     "url": "",
     "name": "World War II Combat: Road to Berlin",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -13726,7 +13726,7 @@
   {
     "url": "",
     "name": "A.V.A. Alliance of Valiant Arms",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -13740,7 +13740,7 @@
   {
     "url": "",
     "name": "Lost Region",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -13754,7 +13754,7 @@
   {
     "url": "",
     "name": "Lifeless",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -13768,7 +13768,7 @@
   {
     "url": "",
     "name": "Infinity Wars Classic (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -13780,7 +13780,7 @@
   {
     "url": "",
     "name": "Romance of the Three Kingdoms: The Legend of CaoCao",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Nexon Game Security"
     ],
@@ -13794,7 +13794,7 @@
   {
     "url": "",
     "name": "AIKA Online Global",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -13846,7 +13846,7 @@
   {
     "url": "",
     "name": "Vicious Circle",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -13860,7 +13860,7 @@
   {
     "url": "",
     "name": "Kritika Global",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -13874,7 +13874,7 @@
   {
     "url": "",
     "name": "StoneAge",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -13900,7 +13900,7 @@
   {
     "url": "",
     "name": "Unreal Tournament 2004 (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -13912,7 +13912,7 @@
   {
     "url": "",
     "name": "Woori Ongame",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -13924,7 +13924,7 @@
   {
     "url": "",
     "name": "CabbageBall",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -13936,7 +13936,7 @@
   {
     "url": "",
     "name": "Blankos: Block Party",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -13948,7 +13948,7 @@
   {
     "url": "",
     "name": "R.U.S.E.™",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -13962,7 +13962,7 @@
   {
     "url": "",
     "name": "Offensive Combat: Redux!",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -13976,7 +13976,7 @@
   {
     "url": "",
     "name": "Continent of the Ninth Golden",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -13990,7 +13990,7 @@
   {
     "url": "",
     "name": "MechWarrior: Living Legends",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -14002,7 +14002,7 @@
   {
     "url": "",
     "name": "HyperRelay",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -14014,7 +14014,7 @@
   {
     "url": "",
     "name": "War Thunder (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -14026,7 +14026,7 @@
   {
     "url": "",
     "name": "Dizzel",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -14038,7 +14038,7 @@
   {
     "url": "",
     "name": "MU Legend: EVO",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -14050,7 +14050,7 @@
   {
     "url": "",
     "name": "INAZUMA ELEVEN: Victory Road",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14092,7 +14092,7 @@
   {
     "url": "",
     "name": "Eden Eternal",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -14104,7 +14104,7 @@
   {
     "url": "",
     "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -14116,7 +14116,7 @@
   {
     "url": "",
     "name": "NEO STEAM",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -14128,7 +14128,7 @@
   {
     "url": "",
     "name": "Counter-Strike (pDxPlay)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -14140,7 +14140,7 @@
   {
     "url": "",
     "name": "Velev",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14166,7 +14166,7 @@
   {
     "url": "",
     "name": "Clickr",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -14180,7 +14180,7 @@
   {
     "url": "",
     "name": "Lost Saga",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14192,7 +14192,7 @@
   {
     "url": "",
     "name": "TERA",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -14206,7 +14206,7 @@
   {
     "url": "",
     "name": "大海战3 Navy Field III",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -14218,7 +14218,7 @@
   {
     "url": "",
     "name": "Sudden Attack",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -14230,7 +14230,7 @@
   {
     "url": "",
     "name": "ArcheAge Chronicles",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -14258,7 +14258,7 @@
   {
     "url": "",
     "name": "Khan: Absolute Power",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -14272,7 +14272,7 @@
   {
     "url": "",
     "name": "Flyff",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14284,7 +14284,7 @@
   {
     "url": "",
     "name": "Travia",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -14296,7 +14296,7 @@
   {
     "url": "",
     "name": "Astellia Royal",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -14310,7 +14310,7 @@
   {
     "url": "",
     "name": "World War II Combat: Iwo Jima",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -14322,7 +14322,7 @@
   {
     "url": "",
     "name": "Operation7",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "X-Trap"
     ],
@@ -14334,7 +14334,7 @@
   {
     "url": "",
     "name": "WBTR - Welcome Back To Reality",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Valve Anti-Cheat"
     ],
@@ -14346,7 +14346,7 @@
   {
     "url": "",
     "name": "Wolfenstein (2009)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -14358,7 +14358,7 @@
   {
     "url": "",
     "name": "Phantasy Star Universe: Ambition of the Illuminus",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -14370,7 +14370,7 @@
   {
     "url": "",
     "name": "Radikal Fighters",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14384,7 +14384,7 @@
   {
     "url": "",
     "name": "F.E.A.R. Online",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -14396,7 +14396,7 @@
   {
     "url": "",
     "name": "World of Warcraft (ChallengerMode)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Arkos"
     ],
@@ -14408,7 +14408,7 @@
   {
     "url": "",
     "name": "Voids Adrift",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14436,7 +14436,7 @@
   {
     "url": "",
     "name": "Breach",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -14450,7 +14450,7 @@
   {
     "url": "",
     "name": "Hyper Universe",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -14464,7 +14464,7 @@
   {
     "url": "",
     "name": "Wonderking",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -14476,7 +14476,7 @@
   {
     "url": "",
     "name": "P.A.S.",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14490,7 +14490,7 @@
   {
     "url": "",
     "name": "Stormdivers",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14532,7 +14532,7 @@
   {
     "url": "",
     "name": "Uncharted Waters Online: Age of Revolution",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -14556,7 +14556,7 @@
   {
     "url": "",
     "name": "Rumbleverse",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14568,7 +14568,7 @@
   {
     "url": "",
     "name": "Archon 24",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14580,7 +14580,7 @@
   {
     "url": "",
     "name": "Archon OG",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14606,7 +14606,7 @@
   {
     "url": "",
     "name": "Shattered Horizon",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "VAC"
     ],
@@ -14620,7 +14620,7 @@
   {
     "url": "",
     "name": "GRASEN",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -14658,7 +14658,7 @@
   {
     "url": "",
     "name": "Tree of Life 2",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -14698,7 +14698,7 @@
   {
     "url": "",
     "name": "America's Army",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PunkBuster"
     ],
@@ -14710,7 +14710,7 @@
   {
     "url": "",
     "name": "Dragon Saga",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14724,7 +14724,7 @@
   {
     "url": "",
     "name": "ROHAN",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -14736,7 +14736,7 @@
   {
     "url": "",
     "name": "RF ONLINE NEXT",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14786,7 +14786,7 @@
   {
     "url": "",
     "name": "HeatProject",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -14812,7 +14812,7 @@
   {
     "url": "",
     "name": "WTF: Waifu Tactical Force",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14826,7 +14826,7 @@
   {
     "url": "",
     "name": "DUST II | The Infinite Zero Point",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -14852,7 +14852,7 @@
   {
     "url": "",
     "name": "Riders of Icarus: SEA",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -14864,7 +14864,7 @@
   {
     "url": "https://infinitynikki.infoldgames.com/",
     "name": "Infinity Nikki",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -14997,7 +14997,7 @@
   {
     "url": "",
     "name": "Warcos 2",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -15009,7 +15009,7 @@
   {
     "url": "",
     "name": "Karos Classic",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "XIGNCODE3"
     ],
@@ -15033,7 +15033,7 @@
   {
     "url": "",
     "name": "Lineage",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -15059,7 +15059,7 @@
   {
     "url": "",
     "name": "Sonic Rumble",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Uncheater"
     ],
@@ -15073,7 +15073,7 @@
   {
     "url": "",
     "name": "Black Stigma",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Cheat Blocker"
     ],
@@ -15115,7 +15115,7 @@
   {
     "url": "",
     "name": "minifighter",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -15141,7 +15141,7 @@
   {
     "url": "",
     "name": "Battlefield 6",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -15155,7 +15155,7 @@
   {
     "url": "",
     "name": "Ghost of Tsushima Director's Cut",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "PlayStation Overlay"
     ],
@@ -15169,7 +15169,7 @@
   {
     "url": "",
     "name": "Sword of Justice",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "NEAC Protect"
     ],
@@ -15181,7 +15181,7 @@
   {
     "url": "",
     "name": "Blade & Soul NEO",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Solution"
     ],
@@ -15193,7 +15193,7 @@
   {
     "url": "https://thefinals.qq.com",
     "name": "The Finals (CN)",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -15225,7 +15225,7 @@
   {
     "url": "",
     "name": "Dragonheir: Silent Gods",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Proxima Game Anti Cheat"
     ],
@@ -15267,7 +15267,7 @@
   {
     "url": "",
     "name": "Blade & Soul Heroes",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Solution"
     ],
@@ -15295,7 +15295,7 @@
   {
     "url": "",
     "name": "Midnight Murder Club",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "PlayStation Overlay"
     ],
@@ -15309,7 +15309,7 @@
   {
     "url": "",
     "name": "Dungeon Done",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -15323,7 +15323,7 @@
   {
     "url": "",
     "name": "Project Wraith",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -15375,7 +15375,7 @@
   {
     "url": "",
     "name": "Call of Duty: Black Ops 7",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "Ricochet"
     ],
@@ -15389,7 +15389,7 @@
   {
     "url": "",
     "name": "skate.",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -15449,7 +15449,7 @@
   {
     "url": "",
     "name": "Last Flag",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -15461,7 +15461,7 @@
   {
     "url": "",
     "name": "SkidRush",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -15485,7 +15485,7 @@
   {
     "url": "",
     "name": "Counter-Strike Online 2",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Nexon Game Security"
     ],
@@ -15509,7 +15509,7 @@
   {
     "url": "",
     "name": "Vindictus: Defying Fate",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Nexon Game Security"
     ],
@@ -15545,7 +15545,7 @@
   {
     "url": "",
     "name": "SUPER PEOPLE (2025)",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "BattlEye"
     ],
@@ -15569,7 +15569,7 @@
   {
     "url": "",
     "name": "The Midnight Walkers",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Anti-Cheat Expert"
     ],
@@ -15581,7 +15581,7 @@
   {
     "url": "https://isekaiisekai.jp",
     "name": "異世界∞異世界 ～次はどの作品を、集めよう～",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
@@ -15605,7 +15605,7 @@
   {
     "url": "",
     "name": "Madoka Magica Magia Exedra",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "CrackProof"
     ],
@@ -15617,7 +15617,7 @@
   {
     "url": "",
     "name": "PUBG: Black Budget",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "Zakynthos"
     ],
@@ -15642,7 +15642,7 @@
   {
     "url": "",
     "name": "Gigantic",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -15666,7 +15666,7 @@
   {
     "url": "",
     "name": "Panzer Arena: Coop",
-    "status": "Denied",
+    "status": "Broken",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -15692,7 +15692,7 @@
   {
     "url": "",
     "name": "Battlefield REDSEC",
-    "status": "Unknown",
+    "status": "Denied",
     "anticheats": [
       "EA anticheat"
     ],
@@ -15728,7 +15728,7 @@
   {
     "url": "",
     "name": "Risk Your Life",
-    "status": "Unknown",
+    "status": "Broken",
     "anticheats": [
       "nProtect GameGuard"
     ],
