@@ -28,7 +28,7 @@ jobs:
           node updater.mjs
 
       - name: Commit JSON
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Update games json with latest changes from AreWeAntiCheatYet"
           file_pattern: "games.json"
